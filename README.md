@@ -87,8 +87,6 @@ The [SQL file](golden_wok_analysis.sql) contains 12 questions covering delivery 
 
 ## Project Structure
 
-Keep these files together at the repository's main level so the links work:
-
 ```text
 golden-wok-delivery-analysis/
     README.md
